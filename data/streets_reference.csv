@@ -1,0 +1,8 @@
+street_id,street_name,max_speed_limit,geometry_json,zone_id,timestamp
+AL-SITTEEN-ST,Al-Sitteen Street,100,"{""type"": ""LineString"", ""coordinates"": [[44.206, 15.376], [44.2085, 15.3774], [44.211, 15.379]]}",North-Sanaa,2026-07-09T01:16:53
+AIRPORT-RD,Airport Road,120,"{""type"": ""LineString"", ""coordinates"": [[44.215, 15.477], [44.2194, 15.4792], [44.224, 15.4815]]}",East-Sanaa,2026-07-09T01:16:57
+HADDA-ST,Hadda Street,60,"{""type"": ""LineString"", ""coordinates"": [[44.197, 15.3415], [44.1989, 15.3432], [44.2005, 15.345]]}",South-Sanaa,2026-07-09T01:17:07
+GAMAL-ABDULNASSER-ST,Gamal Abdul Nasser Street,80,"{""type"": ""LineString"", ""coordinates"": [[44.189, 15.368], [44.191, 15.3694], [44.193, 15.371]]}",North-Sanaa,2026-07-09T01:17:37
+AL-ZUBAYRI-ST,Al-Zubayri Street,60,"{""type"": ""LineString"", ""coordinates"": [[44.205, 15.3545], [44.2066, 15.356], [44.208, 15.3575]]}",Central-Sanaa,2026-07-09T01:17:47
+TAIZ-ST,Taiz Street,70,"{""type"": ""LineString"", ""coordinates"": [[44.201, 15.363], [44.203, 15.3642], [44.205, 15.3657]]}",West-Sanaa,2026-07-09T01:18:07
+BAB-AL-YEMEN-ST,Bab Al Yemen Street,65,"{""type"": ""LineString"", ""coordinates"": [[44.211, 15.352], [44.213, 15.3538], [44.215, 15.3553]]}",Old-City,2026-07-09T01:18:17
