@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+
+# Logs
+*.log
+logs/
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+checkpoints/
+
+# HDFS
+namenode/
+datanode/
+hdfs/
+
+# Kafka
+kafka-data/
+kafka-logs/
+zookeeper-data/
+
+# ClickHouse
+clickhouse_data/
+
+# Temporary files
+tmp/
+temp/
+
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+grafana_data/
+postgres/
+clickhouse/
